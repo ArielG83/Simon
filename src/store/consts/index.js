@@ -1,0 +1,4 @@
+export const TOP_SCORE = Object.freeze({
+  GET_TOP_SCORE: 'GET_TOP_SCORE',
+  UPDATE_TOP_SCORE: 'UPDATE_TOP_SCORE',
+})
